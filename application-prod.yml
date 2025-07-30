@@ -1,2 +1,7 @@
 server: 
   port: 9393
+
+spring:
+  application:
+    name: config-prod
+  
